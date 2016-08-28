@@ -1,0 +1,24 @@
+html{
+	font-family: "微软雅黑";
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+p{
+	font-size: 100px;
+	height:100%;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	margin-top: 20%;
+	
+	
+}
+input{
+	width: 30px;
+	height: 30px;
+}
+#txt{
+	width: 150px;
+	height: 30px;
+}
